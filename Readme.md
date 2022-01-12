@@ -17,4 +17,7 @@
     
 </code>
 </pre>
+![스크린샷 2022-01-12 오후 2 07 17](https://user-images.githubusercontent.com/73631818/149069677-6eff2391-b3eb-468f-b8a6-736fbce493b7.png) ![스크린샷 2022-01-12 오후 2 07 21](https://user-images.githubusercontent.com/73631818/149069692-e5823ff4-a612-4c87-babf-43ae47f891fd.png)
+
+왼쪽 버튼이 눌리고 오른쪽 버튼이 눌렸을 때 Label의 Text가 변경됩니다.
 
